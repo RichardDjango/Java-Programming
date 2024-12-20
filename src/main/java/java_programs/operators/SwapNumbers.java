@@ -1,3 +1,5 @@
+package java_programs.operators;
+
 import java.util.Scanner;
 
 //Swap the numbers in two variables without using another variable

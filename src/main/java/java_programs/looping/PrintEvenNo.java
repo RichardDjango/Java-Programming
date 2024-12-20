@@ -1,3 +1,5 @@
+package java_programs.looping;
+
 import java.util.Scanner;
 
 //Print all even numbers up to n

@@ -1,3 +1,5 @@
+package java_programs.branching;
+
 import java.util.Scanner;
 
 //Display the corresponding weekday for a given number. For instance, 1

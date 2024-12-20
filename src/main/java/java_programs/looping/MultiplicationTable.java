@@ -1,3 +1,5 @@
+package java_programs.looping;
+
 import java.util.Scanner;
 
 //Check if the given number is even or odd

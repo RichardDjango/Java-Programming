@@ -8,3 +8,10 @@ main: main represents that the function declared is the main function. It helps 
 
 String args[]: It stores Java command-line arguments and is an array of type java.lang.String class
 
+
+SPLIT METHOD :Splits by seperator and stores in a string array as an array of substrings
+Split method : if you use more than one delimeter, you must use a square bracket to contain the regular expression
+each delimeter is seperated with 2 backslashes.
+
+eg: to seperate by space use:-                           .split(" ")
+to seperate by comma and space and full stop use:-       .split.("[\\s\\,\\.]") and the square brackets should be inside the double quotes
